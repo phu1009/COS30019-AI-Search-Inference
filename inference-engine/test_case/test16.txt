@@ -1,0 +1,4 @@
+TELL
+~f || g; f => h; g => j;
+ASK
+j
